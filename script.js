@@ -25,9 +25,9 @@ function clickBtn1() {
   document.getElementById("title1").textContent = youtubeTitle;
   document.getElementById("lead1").innerHTML = taLead1;
 
-  document.getElementById("showAtitle").textContent = taTitle;
-  document.getElementById("showAlead").innerHTML = taLead1;
-  document.getElementById("showAyoutube").textContent = youtubeTitle;
+  document.getElementById("showAtitle").textContent = '(1)' + taTitle;
+  document.getElementById("showAlead").innerHTML = taLead1 + '<br><br>';
+  document.getElementById("showAyoutube").innerHTML = youtubeTitle + '<br><br>';
 }
 
 function clickBtnAtitle() {
@@ -61,9 +61,9 @@ function clickBtn2() {
   document.getElementById("title2").textContent = youtubeTitle;
   document.getElementById("lead2").innerHTML = taLead2;
 
-  document.getElementById("showBtitle").textContent = taTitle;
-  document.getElementById("showBlead").innerHTML = taLead2;
-  document.getElementById("showByoutube").textContent = youtubeTitle;
+  document.getElementById("showBtitle").textContent = '(2)' + taTitle;
+  document.getElementById("showBlead").innerHTML = taLead2 + '<br><br>';
+  document.getElementById("showByoutube").innerHTML = youtubeTitle + '<br><br>';
 }
 
 function clickBtnBtitle() {
@@ -96,9 +96,9 @@ function clickBtn3() {
   document.getElementById("title3").textContent = youtubeTitle;
   document.getElementById("lead3").innerHTML = taLead3;
 
-  document.getElementById("showCtitle").textContent = taTitle;
-  document.getElementById("showClead").innerHTML = taLead3;
-  document.getElementById("showCyoutube").textContent = youtubeTitle;
+  document.getElementById("showCtitle").textContent = '(3)' + taTitle;
+  document.getElementById("showClead").innerHTML = taLead3 + '<br><br>';
+  document.getElementById("showCyoutube").innerHTML = youtubeTitle + '<br><br>';
 }
 
 function clickBtnCtitle() {
@@ -131,9 +131,9 @@ function clickBtn4() {
   document.getElementById("title4").textContent = youtubeTitle;
   document.getElementById("lead4").innerHTML = taLead4;
 
-  document.getElementById("showDtitle").textContent = taTitle;
-  document.getElementById("showDlead").innerHTML = taLead4;
-  document.getElementById("showDyoutube").textContent = youtubeTitle;
+  document.getElementById("showDtitle").textContent = '(4)' + taTitle;
+  document.getElementById("showDlead").innerHTML = taLead4 + '<br><br>';
+  document.getElementById("showDyoutube").innerHTML = youtubeTitle + '<br><br>';
 }
 
 function clickBtnDtitle() {
@@ -166,9 +166,9 @@ function clickBtn5() {
   document.getElementById("title5").textContent = youtubeTitle;
   document.getElementById("lead5").innerHTML = taLead5;
 
-  document.getElementById("showEtitle").textContent = taTitle;
-  document.getElementById("showElead").innerHTML = taLead5;
-  document.getElementById("showEyoutube").textContent = youtubeTitle;
+  document.getElementById("showEtitle").textContent = '(5)' + taTitle;
+  document.getElementById("showElead").innerHTML = taLead5 + '<br><br>';
+  document.getElementById("showEyoutube").innerHTML = youtubeTitle + '<br><br>';
 }
 
 function clickBtnEtitle() {
@@ -201,9 +201,9 @@ function clickBtn6() {
   document.getElementById("title6").textContent = youtubeTitle;
   document.getElementById("lead6").innerHTML = taLead6;
 
-  document.getElementById("showFtitle").textContent = taTitle;
-  document.getElementById("showFlead").innerHTML = taLead6;
-  document.getElementById("showFyoutube").textContent = youtubeTitle;
+  document.getElementById("showFtitle").textContent = '(6)' + taTitle;
+  document.getElementById("showFlead").innerHTML = taLead6 + '<br><br>';
+  document.getElementById("showFyoutube").innerHTML = youtubeTitle + '<br><br>';
 }
 
 function clickBtnFtitle() {
@@ -236,9 +236,9 @@ function clickBtn7() {
   document.getElementById("title7").textContent = youtubeTitle;
   document.getElementById("lead7").innerHTML = taLead7;
 
-  document.getElementById("showGtitle").textContent = taTitle;
-  document.getElementById("showGlead").innerHTML = taLead7;
-  document.getElementById("showGyoutube").textContent = youtubeTitle;
+  document.getElementById("showGtitle").textContent = '(7)' + taTitle;
+  document.getElementById("showGlead").innerHTML = taLead7 + '<br><br>';
+  document.getElementById("showGyoutube").innerHTML = youtubeTitle + '<br><br>';
 }
 
 function clickBtnGtitle() {
@@ -271,9 +271,9 @@ function clickBtn8() {
   document.getElementById("title8").textContent = youtubeTitle;
   document.getElementById("lead8").innerHTML = taLead8;
 
-  document.getElementById("showHtitle").textContent = taTitle;
-  document.getElementById("showHlead").innerHTML = taLead8;
-  document.getElementById("showHyoutube").textContent = youtubeTitle;
+  document.getElementById("showHtitle").textContent = '(8)' + taTitle;
+  document.getElementById("showHlead").innerHTML = taLead8 + '<br><br>';
+  document.getElementById("showHyoutube").innerHTML = youtubeTitle + '<br><br>';
 }
 
 function clickBtnHtitle() {
@@ -306,9 +306,9 @@ function clickBtn9() {
   document.getElementById("title9").textContent = youtubeTitle;
   document.getElementById("lead9").innerHTML = taLead9;
 
-  document.getElementById("showItitle").textContent = taTitle;
-  document.getElementById("showIlead").innerHTML = taLead9;
-  document.getElementById("showIyoutube").textContent = youtubeTitle;
+  document.getElementById("showItitle").textContent = '(9)' + taTitle;
+  document.getElementById("showIlead").innerHTML = taLead9 + '<br><br>';
+  document.getElementById("showIyoutube").innerHTML = youtubeTitle + '<br><br>';
 }
 
 function clickBtnItitle() {
@@ -341,9 +341,9 @@ function clickBtn10() {
   document.getElementById("title10").textContent = youtubeTitle;
   document.getElementById("lead10").innerHTML = taLead0;
 
-  document.getElementById("showJtitle").textContent = taTitle;
-  document.getElementById("showJlead").innerHTML = taLead0;
-  document.getElementById("showJyoutube").textContent = youtubeTitle;
+  document.getElementById("showJtitle").textContent = '(10)' + taTitle;
+  document.getElementById("showJlead").innerHTML = taLead0 + '<br><br>';
+  document.getElementById("showJyoutube").textContent = youtubeTitle + '<br><br>';
 }
 
 function clickBtnJtitle() {
