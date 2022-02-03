@@ -1,6 +1,6 @@
 let dt = new Date();
 let year = dt.getFullYear();
-let month = ("0"+dt.getMonth()).slice(-2)+1;
+let month = ("0"+dt.getMonth()).slice(-2)-9;
 let date = ("0"+dt.getDate()).slice(-2);
 let today = year + "/" + month + "/" + date;
 
