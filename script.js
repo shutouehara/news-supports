@@ -1,7 +1,7 @@
 let dt = new Date();
 let year = dt.getFullYear();
-let month = dt.getMonth()+1;
-let date = dt.getDate();
+let month = ("0"+date.getMonth()).slice(-2)+1;
+let date = ("0"+date.getDate()).slice(-2);
 let today = year + "/" + month + "/" + date;
 
 let taTitle = '';
